@@ -1,0 +1,19 @@
+" Parameter to calculate rate const for DMSO" 
+
+
+Pressure 1e-2   'Pressure in torr'
+SIG1 3.66        'cross-section'
+WELL1 168.18
+AMASS1 78.13
+CVPI 19.70
+CVPS 0.0655      'Heat Capacities'
+BG-Pressure 0.1  'Background Pressure in torr'
+SIG2 3.542
+WELL2 93.3
+AMASS2 40
+CVI 5
+CVS 0
+IRATE 0  			
+AVENU 17.3
+EC 24534
+ROTDGN 1

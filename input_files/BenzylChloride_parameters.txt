@@ -1,0 +1,19 @@
+" Parameter to calculate rate const for BenC" benzyl peroxide R. A. Eng, A. Gebert, E. Goos, H. Hippler and C. Kachiani, Phys. Chem. Chem. Phys., 2002, 4, 3989–3996 RSC .
+
+
+Pressure 1e-2   'Pressure in torr'
+SIG1 6        'cross-section'
+WELL1 410
+AMASS1 126.58 
+CVPI 182.4
+CVPS 0.0655      'Heat Capacities'
+BG-Pressure 0.1  'Background Pressure in torr'
+SIG2 3.542
+WELL2 93.3
+AMASS2 40
+CVI 5
+CVS 0
+IRATE 0  			
+AVENU 17.3
+EC 24534
+ROTDGN 1

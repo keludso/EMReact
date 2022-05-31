@@ -1,0 +1,32 @@
+DMSO
+Experimental data from theortical and experimental study of dimethyl sulfoxide
+Data from theoreeical
+21, 0, 0, 'We'
+3014
+3013
+3005
+3002
+2897
+2896
+1394
+1379
+1366
+1296
+1273
+1034
+985
+925
+891
+674
+651
+343
+292
+223
+160
+ 
+3         "CM-1"
+3 rot 0.23052 1 1
+3 rot 0.23471 1 1
+3 rot 0.14072 1 1
+5.  10000  51000  50000.  Good auto 50000. 
+'nochekstart'
